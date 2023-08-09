@@ -10,5 +10,13 @@ a new artist that I've found and I wanted a way to sort all the MP3 files into d
 
  
 
+![image](https://github.com/JpPjJp/MP3-Organiser/assets/40423237/4fa78fbb-7e30-4762-9d3e-58f892da0860)
 
- 
+EXAMPLE:
+Lots of MP3s...
+
+![image](https://github.com/JpPjJp/MP3-Organiser/assets/40423237/41469f9e-aa06-4432-9c6d-e216e047cb74)
+
+Directories!
+
+![image](https://github.com/JpPjJp/MP3-Organiser/assets/40423237/85bcf6fd-3e72-4000-84a9-c8f94bdf0e9c)
