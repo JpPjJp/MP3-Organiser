@@ -6,4 +6,9 @@ a new artist that I've found and I wanted a way to sort all the MP3 files into d
  Often times an artist will have the same track appear on multiple albums / EPs. When this happens, the script falls over because multiple files have the same 
  name. To prevent this you just need to add "--options {title}+", "+{album}" to your spotDL command so that every file downloaded will have a unique name, like below.
 
+ ![image](https://github.com/JpPjJp/MP3-Organiser/assets/40423237/d57d57f9-22d1-4e69-b5cc-c7e981326714)
+
+ 
+
+
  
