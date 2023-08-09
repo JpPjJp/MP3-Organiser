@@ -10,8 +10,6 @@ a new artist that I've found and I wanted a way to sort all the MP3 files into d
 
  
 
-![image](https://github.com/JpPjJp/MP3-Organiser/assets/40423237/4fa78fbb-7e30-4762-9d3e-58f892da0860)
-
 EXAMPLE:
 Lots of MP3s...
 
